@@ -2,6 +2,10 @@
 
 Program pertama yang akan dibuat adalah Program untuk menampilkan angka pertama dan kedua dan masukan operator dan mendapat hasil dari input
 
+Input
+
+<img width="959" alt="INPUT" src="https://github.com/user-attachments/assets/bfb3607e-e8dc-45a4-8524-7b9cf82783ab">
+
 Berikut flowchartnya
 
 ![Flowchart1](https://github.com/user-attachments/assets/bc159e2f-3a21-43c3-bae0-4b8107492bd9)
